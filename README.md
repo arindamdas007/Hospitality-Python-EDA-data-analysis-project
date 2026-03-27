@@ -1,4 +1,3 @@
-# Hospitality-Python-EDA-data-analysis-project
 # 🏨 Hospitality Data Analysis Project
 
 ## 📌 Project Overview
